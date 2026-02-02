@@ -1,0 +1,20 @@
+# LangChain and Agent Framework
+langchain==0.1.0
+langchain-community==0.0.13
+
+# Local LLM Integration
+ollama==0.1.6
+
+# Vector Store and Embeddings
+faiss-cpu==1.7.4
+sentence-transformers==2.3.1
+
+# Streamlit UI
+streamlit==1.31.0
+
+# Utilities
+python-dotenv==1.0.0
+pydantic==2.5.3
+
+# Optional: For better text processing
+pypdf==4.0.0

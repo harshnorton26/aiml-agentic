@@ -1,0 +1,40 @@
+# Configuration file for HR Policy Agent
+
+# Ollama Configuration
+ollama:
+  model: "mistral"  # Available: mistral, llama2, llama3, phi
+  base_url: "http://localhost:11434"
+  temperature: 0.7
+
+# Agent Configuration
+agent:
+  verbose: true
+  max_iterations: 5
+  handle_parsing_errors: true
+
+# Memory Configuration
+memory:
+  type: "buffer"  # buffer or summary
+  max_tokens: 2000
+
+# Policy Documents
+policies:
+  directory: "data/policies"
+  supported_formats: [".txt", ".pdf"]
+
+# Embeddings Configuration
+embeddings:
+  model: "sentence-transformers/all-MiniLM-L6-v2"
+  chunk_size: 500
+  chunk_overlap: 50
+
+# Vector Store
+vectorstore:
+  type: "faiss"  # faiss or chroma
+  similarity_top_k: 3
+
+# UI Configuration
+ui:
+  title: "HR Policy Assistant"
+  page_icon: "👔"
+  layout: "wide"

@@ -1,0 +1,54 @@
+# HR Policy Document - Leave Policy
+
+## Company Leave Policy
+
+### Annual Leave
+- **Entitlement**: All full-time employees are entitled to 20 days of annual leave per year.
+- **Accrual**: Leave accrues at 1.67 days per month.
+- **Carryforward**: Up to 5 unused annual leave days may be carried forward to the next calendar year.
+- **Expiry**: Any leave beyond 5 days that is not taken will expire on December 31st.
+- **Application**: Annual leave requests should be submitted at least 2 weeks in advance for approval.
+
+### Sick Leave
+- **Entitlement**: 12 days of sick leave per year for all full-time employees.
+- **Medical Certificate**: Required for absences of 3 or more consecutive days.
+- **Notification**: Employees must notify their manager by 9 AM on the day of absence.
+- **Unused**: Sick leave cannot be carried forward to the next year.
+- **Emergency**: In case of emergency hospitalization, medical documentation must be submitted within 3 days of return.
+
+### Casual Leave
+- **Entitlement**: 10 days of casual leave per year.
+- **Purpose**: For personal emergencies, family events, or urgent matters.
+- **Notice**: Should be applied at least 24 hours in advance when possible.
+- **Medical Certificate**: Not required for casual leave.
+- **Carryforward**: Cannot be carried forward to the next year.
+
+### Maternity Leave
+- **Entitlement**: Female employees are entitled to 180 days (6 months) of paid maternity leave.
+- **Eligibility**: Must have completed 6 months of service with the company.
+- **Application**: Should be applied at least 4 weeks before the expected delivery date.
+- **Extension**: Can be extended by 30 days with medical certification.
+
+### Paternity Leave
+- **Entitlement**: Male employees are entitled to 15 days of paid paternity leave.
+- **Eligibility**: Available upon the birth or adoption of a child.
+- **Application**: Should be applied within 2 weeks of the child's birth.
+- **Timing**: Must be taken within 3 months of the child's birth.
+
+### Bereavement Leave
+- **Immediate Family**: 5 days of paid leave for the death of an immediate family member (spouse, parent, child, sibling).
+- **Extended Family**: 3 days for grandparents, in-laws, or other close relatives.
+- **Documentation**: Death certificate may be requested.
+- **No advance notice required**: Due to the nature of bereavement.
+
+### Compensatory Off (Comp Off)
+- **Eligibility**: Granted for working on designated company holidays or weekends.
+- **Approval**: Must be pre-approved by manager before working on the holiday.
+- **Validity**: Comp off must be utilized within 30 days of earning it.
+- **Application**: Can be applied with 1 day notice.
+
+### Leave Without Pay (LWP)
+- **Availability**: When all paid leave is exhausted.
+- **Approval**: Requires manager and HR approval.
+- **Impact**: May affect salary, benefits, and annual performance evaluation.
+- **Maximum**: Should not exceed 30 days in a calendar year without special approval.
